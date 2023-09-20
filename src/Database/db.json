@@ -1,0 +1,84 @@
+{
+  "users": [
+    {
+      "name": "user",
+      "username": "user123",
+      "email": "user@gmail.com",
+      "phone": "5676567898",
+      "city": "ahmedabad",
+      "course": "bca",
+      "state": "Gujarat",
+      "id": 1
+    },
+    {
+      "name": "admin",
+      "username": "admin123",
+      "email": "admin@gmail.com",
+      "phone": "0001112223",
+      "city": "ahmedabad",
+      "course": "bca",
+      "state": "Gujarat",
+      "id": 2
+    },
+    {
+      "name": "abc",
+      "username": "abc123",
+      "email": "abc@gmail.com",
+      "phone": "0001112223",
+      "city": "ahmedabad",
+      "course": "bca",
+      "state": "Gujarat",
+      "id": 2
+    },
+    {
+      "name": "john",
+      "username": "john13",
+      "email": "g@gmail.com",
+      "phone": "3746238428",
+      "city": "ahmedabad",
+      "course": "bca",
+      "state": "Gujarat",
+      "id": 3
+    },
+    {
+      "name": "aaa",
+      "username": "aaa123",
+      "email": "a@gmail.com",
+      "phone": "1234567898",
+      "city": "ahmedabad",
+      "course": "bca",
+      "state": "Gujarat",
+      "id": 4
+    },
+    {
+      "name": "bbb",
+      "username": "bbb1222",
+      "email": "b@gmail.com",
+      "phone": "2343454678909",
+      "city": "junagadh",
+      "course": "bca",
+      "state": "Gujarat",
+      "id": 5
+    },
+    {
+      "name": "abcd",
+      "username": "abcd444",
+      "email": "abcd@gmail.com",
+      "phone": "234345467",
+      "city": "rajkot",
+      "course": "bca",
+      "state": "Gujarat",
+      "id": 5
+    },
+    {
+      "name": "komal",
+      "username": "komal123",
+      "email": "k@gmail.com",
+      "phone": "05677889876",
+      "city": "surat",
+      "state": "Gujarat",
+      "course": "bsc",
+      "id": 6
+    }
+  ]
+}
